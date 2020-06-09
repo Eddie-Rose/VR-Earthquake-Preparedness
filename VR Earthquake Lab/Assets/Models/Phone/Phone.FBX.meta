@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: 4c272c6ff9d2b9c4fa951804e8a2c9a8
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Line01
+    100002: //RootNode
+    100004: Rectangle01
+    100006: Rectangle02
+    100008: Rectangle03
+    100010: Rectangle04
+    100012: Rectangle05
+    100014: Rectangle06
+    100016: Rectangle07
+    100018: Rectangle08
+    100020: Rectangle09
+    100022: Rectangle10
+    100024: Rectangle11
+    100026: Rectangle12
+    100028: Rectangle13
+    100030: Rectangle14
+    100032: Rectangle15
+    100034: Rectangle16
+    100036: Rectangle17
+    100038: Rectangle18
+    100040: Rectangle19
+    100042: Rectangle20
+    100044: Rectangle21
+    100046: Rectangle22
+    100048: Rectangle23
+    100050: Rectangle24
+    100052: Rectangle25
+    100054: Rectangle26
+    100056: Rectangle27
+    100058: Rectangle28
+    100060: Rectangle29
+    100062: Rectangle30
+    100064: Rectangle31
+    100066: Rectangle32
+    100068: Rectangle33
+    100070: Rectangle34
+    400000: Line01
+    400002: //RootNode
+    400004: Rectangle01
+    400006: Rectangle02
+    400008: Rectangle03
+    400010: Rectangle04
+    400012: Rectangle05
+    400014: Rectangle06
+    400016: Rectangle07
+    400018: Rectangle08
+    400020: Rectangle09
+    400022: Rectangle10
+    400024: Rectangle11
+    400026: Rectangle12
+    400028: Rectangle13
+    400030: Rectangle14
+    400032: Rectangle15
+    400034: Rectangle16
+    400036: Rectangle17
+    400038: Rectangle18
+    400040: Rectangle19
+    400042: Rectangle20
+    400044: Rectangle21
+    400046: Rectangle22
+    400048: Rectangle23
+    400050: Rectangle24
+    400052: Rectangle25
+    400054: Rectangle26
+    400056: Rectangle27
+    400058: Rectangle28
+    400060: Rectangle29
+    400062: Rectangle30
+    400064: Rectangle31
+    400066: Rectangle32
+    400068: Rectangle33
+    400070: Rectangle34
+    2100000: elc001_gray1 (Vray)
+    2100002: elc001_gray2 (Vray)
+    2100004: elc001_plastic (Vray)
+    2100006: 'Material #25'
+    2100008: elc001_monitor (Vray)
+    2300000: Line01
+    2300002: Rectangle01
+    2300004: Rectangle02
+    2300006: Rectangle03
+    2300008: Rectangle04
+    2300010: Rectangle05
+    2300012: Rectangle06
+    2300014: Rectangle07
+    2300016: Rectangle08
+    2300018: Rectangle09
+    2300020: Rectangle10
+    2300022: Rectangle11
+    2300024: Rectangle12
+    2300026: Rectangle13
+    2300028: Rectangle14
+    2300030: Rectangle15
+    2300032: Rectangle16
+    2300034: Rectangle17
+    2300036: Rectangle18
+    2300038: Rectangle19
+    2300040: Rectangle20
+    2300042: Rectangle21
+    2300044: Rectangle22
+    2300046: Rectangle23
+    2300048: Rectangle24
+    2300050: Rectangle25
+    2300052: Rectangle26
+    2300054: Rectangle27
+    2300056: Rectangle28
+    2300058: Rectangle29
+    2300060: Rectangle30
+    2300062: Rectangle31
+    2300064: Rectangle32
+    2300066: Rectangle33
+    2300068: Rectangle34
+    3300000: Line01
+    3300002: Rectangle01
+    3300004: Rectangle02
+    3300006: Rectangle03
+    3300008: Rectangle04
+    3300010: Rectangle05
+    3300012: Rectangle06
+    3300014: Rectangle07
+    3300016: Rectangle08
+    3300018: Rectangle09
+    3300020: Rectangle10
+    3300022: Rectangle11
+    3300024: Rectangle12
+    3300026: Rectangle13
+    3300028: Rectangle14
+    3300030: Rectangle15
+    3300032: Rectangle16
+    3300034: Rectangle17
+    3300036: Rectangle18
+    3300038: Rectangle19
+    3300040: Rectangle20
+    3300042: Rectangle21
+    3300044: Rectangle22
+    3300046: Rectangle23
+    3300048: Rectangle24
+    3300050: Rectangle25
+    3300052: Rectangle26
+    3300054: Rectangle27
+    3300056: Rectangle28
+    3300058: Rectangle29
+    3300060: Rectangle30
+    3300062: Rectangle31
+    3300064: Rectangle32
+    3300066: Rectangle33
+    3300068: Rectangle34
+    4300000: Rectangle12
+    4300002: Rectangle13
+    4300004: Rectangle29
+    4300006: Rectangle04
+    4300008: Rectangle05
+    4300010: Rectangle06
+    4300012: Rectangle07
+    4300014: Rectangle08
+    4300016: Rectangle15
+    4300018: Rectangle14
+    4300020: Rectangle27
+    4300022: Rectangle26
+    4300024: Rectangle25
+    4300026: Rectangle19
+    4300028: Rectangle10
+    4300030: Rectangle09
+    4300032: Rectangle11
+    4300034: Rectangle28
+    4300036: Rectangle30
+    4300038: Rectangle24
+    4300040: Rectangle16
+    4300042: Rectangle17
+    4300044: Rectangle18
+    4300046: Rectangle20
+    4300048: Rectangle21
+    4300050: Rectangle22
+    4300052: Rectangle23
+    4300054: Line01
+    4300056: Rectangle34
+    4300058: Rectangle33
+    4300060: Rectangle32
+    4300062: Rectangle31
+    4300064: Rectangle02
+    4300066: Rectangle03
+    4300068: Rectangle01
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

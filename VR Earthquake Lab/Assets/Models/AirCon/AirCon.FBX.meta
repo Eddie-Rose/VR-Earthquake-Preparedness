@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: 9b0a87fff8707a740bffe077aaf547f9
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: air_cond
+    100002: //RootNode
+    100004: Boole
+    100006: Boole1
+    100008: Boole2
+    100010: Boole3
+    100012: Cap_1
+    100014: Cap_11
+    100016: Cap_12
+    100018: Cap_12 1
+    100020: Cap_13
+    100022: Cap_13 1
+    100024: Cap_14
+    100026: Cap_14 1
+    100028: Cap_2
+    100030: Cap_21
+    100032: Cap_21 1
+    100034: Cap_22
+    100036: Cap_23
+    100038: Cap_23 1
+    100040: Cap_24
+    100042: Cap_24 1
+    100044: Cube
+    100046: Cube1
+    100048: Cube2
+    100050: Cube3
+    100052: Cube3 1
+    100054: cutou
+    100056: cutout
+    100058: cutout 1
+    100060: Extru
+    100062: Extru1
+    100064: Extrude_NU
+    100066: Fill_Light
+    100068: Front
+    100070: Front_door
+    100072: FX_Light
+    100074: Light
+    100076: Main_body
+    100078: main_body
+    100080: Main_Light
+    100082: Null_Objec
+    100084: Round
+    100086: Round 1
+    100088: Round1
+    100090: Round2
+    100092: Round3
+    100094: Round3 1
+    100096: Rounding
+    100098: Rounding 1
+    400000: air_cond
+    400002: //RootNode
+    400004: Boole
+    400006: Boole1
+    400008: Boole2
+    400010: Boole3
+    400012: Cap_1
+    400014: Cap_11
+    400016: Cap_12
+    400018: Cap_12 1
+    400020: Cap_13
+    400022: Cap_13 1
+    400024: Cap_14
+    400026: Cap_14 1
+    400028: Cap_2
+    400030: Cap_21
+    400032: Cap_21 1
+    400034: Cap_22
+    400036: Cap_23
+    400038: Cap_23 1
+    400040: Cap_24
+    400042: Cap_24 1
+    400044: Cube
+    400046: Cube1
+    400048: Cube2
+    400050: Cube3
+    400052: Cube3 1
+    400054: cutou
+    400056: cutout
+    400058: cutout 1
+    400060: Extru
+    400062: Extru1
+    400064: Extrude_NU
+    400066: Fill_Light
+    400068: Front
+    400070: Front_door
+    400072: FX_Light
+    400074: Light
+    400076: Main_body
+    400078: main_body
+    400080: Main_Light
+    400082: Null_Objec
+    400084: Round
+    400086: Round 1
+    400088: Round1
+    400090: Round2
+    400092: Round3
+    400094: Round3 1
+    400096: Rounding
+    400098: Rounding 1
+    2100000: air_cond text
+    2100002: Default
+    2300000: Cap_1
+    2300002: Cap_11
+    2300004: Cap_2
+    2300006: Cap_22
+    2300008: Cube
+    2300010: Cube1
+    2300012: Cube2
+    2300014: cutou
+    2300016: Extru
+    2300018: Extru1
+    2300020: Extrude_NU
+    2300022: Front_door
+    2300024: Main_body
+    2300026: Round1
+    2300028: Round2
+    3300000: Cap_1
+    3300002: Cap_11
+    3300004: Cap_2
+    3300006: Cap_22
+    3300008: Cube
+    3300010: Cube1
+    3300012: Cube2
+    3300014: cutou
+    3300016: Extru
+    3300018: Extru1
+    3300020: Extrude_NU
+    3300022: Front_door
+    3300024: Main_body
+    3300026: Round1
+    3300028: Round2
+    4300000: Front_door
+    4300002: Cap_1
+    4300004: Round2
+    4300006: Cap_22
+    4300008: Main_body
+    4300010: Cap_11
+    4300012: Round1
+    4300014: Cap_2
+    4300016: cutou
+    4300018: Cube2
+    4300020: Extru1
+    4300022: Cube
+    4300024: Extrude_NU
+    4300026: Cube1
+    4300028: Extru
+    9500000: //RootNode
+    10800000: Fill_Light
+    10800002: FX_Light
+    10800004: Light
+    10800006: Main_Light
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: air_cond text
+    second: {fileID: 2100000, guid: 71bd40122f8eb8f468910f4e1d480574, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

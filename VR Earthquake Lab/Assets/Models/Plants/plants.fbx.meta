@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: c3bf58bca10519c469cc1fdf12c41b6e
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Areca palm
+    100002: Cactus 1
+    100004: Cactus 2
+    100006: Camera
+    100008: Corn plant
+    100010: flask philodendron
+    100012: Orchid
+    100014: Plane
+    100016: Plant
+    100018: //RootNode
+    100020: Snake plant
+    100022: Sun
+    400000: Areca palm
+    400002: Cactus 1
+    400004: Cactus 2
+    400006: Camera
+    400008: Corn plant
+    400010: flask philodendron
+    400012: Orchid
+    400014: Plane
+    400016: Plant
+    400018: //RootNode
+    400020: Snake plant
+    400022: Sun
+    2000000: Camera
+    2100000: No Name
+    2100002: Flower pot 2
+    2100004: Soil2
+    2100006: Stone
+    2100008: flask philodendron
+    2100010: flask philodendron.001
+    2100012: White flower pot
+    2100014: Soil 1
+    2100016: Cactus 1
+    2100018: Orange flower pot
+    2100020: Cactus 2
+    2100022: Cactus 2.001
+    2100024: Plant
+    2100026: Snake plant
+    2100028: Black flower pot
+    2100030: Orchid.001
+    2100032: Leaves
+    2100034: Orchid
+    2100036: Orchid.002
+    2100038: metal
+    2100040: Areca palm
+    2100042: Areca palm2
+    2100044: Flower pot 1
+    2100046: Corn plant
+    2300000: Areca palm
+    2300002: Cactus 1
+    2300004: Cactus 2
+    2300006: Corn plant
+    2300008: flask philodendron
+    2300010: Orchid
+    2300012: Plane
+    2300014: Plant
+    2300016: Snake plant
+    3300000: Areca palm
+    3300002: Cactus 1
+    3300004: Cactus 2
+    3300006: Corn plant
+    3300008: flask philodendron
+    3300010: Orchid
+    3300012: Plane
+    3300014: Plant
+    3300016: Snake plant
+    4300000: Plane
+    4300002: flask philodendron
+    4300004: Cactus 1
+    4300006: Cactus 2
+    4300008: Plant
+    4300010: Snake plant
+    4300012: Orchid
+    4300014: Areca palm
+    4300016: Corn plant
+    10800000: Sun
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Areca palm
+    second: {fileID: 2100000, guid: ac2f5c4758193314580659cd27107232, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Corn plant
+    second: {fileID: 2100000, guid: 42bdfc7652a6b834298cf858ac7cae37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flower pot 1
+    second: {fileID: 2100000, guid: f8ef6e2e2870f9546a06e604612bc049, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flower pot 2
+    second: {fileID: 2100000, guid: 58365a4fe80b78543976547a64852507, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leaves
+    second: {fileID: 2100000, guid: 0141b433cd101f843a3156f63a309b0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orchid
+    second: {fileID: 2100000, guid: 18ce82a8056526a4b85010272834f066, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orchid.001
+    second: {fileID: 2100000, guid: db2b9ff1680e8d54096bf2663da65a7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snake plant
+    second: {fileID: 2100000, guid: 2f12377a67319b04ea5ebf88cf17652c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Soil 1
+    second: {fileID: 2100000, guid: 47e3aa74b0e40f64abf1df9b9d651422, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Soil2
+    second: {fileID: 2100000, guid: 21f4dc580c46a4e4690148abcef2f794, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone
+    second: {fileID: 2100000, guid: af7beb635b1a68e46bdae3ed813aad47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White flower pot
+    second: {fileID: 2100000, guid: 54cdc784acf488746abd07371f9adc9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flask philodendron
+    second: {fileID: 2100000, guid: ba299d9f3170d6945b76fc0034b225a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flask philodendron.001
+    second: {fileID: 2100000, guid: 47b7c905b24ced44d80c96bf49f2b64f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: 9c625dd0fb37a92478e5cb9e48d2d9d9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
